@@ -1,0 +1,8 @@
+friends = ['sam', 'rab',  'kb']
+for friend in friends:        # Second Example
+   print ('my friend s are  :', friend)
+
+   motorcycles = ['honda', 'yamaha', 'suzuki']
+   print(motorcycles)
+motorcycles[0] = 'ducati'
+print(motorcycles)

@@ -1,0 +1,4 @@
+name = "moona"
+age = 30
+msg = name +"\tis" + "\t"+ str(age) + "\t years old"
+print(msg)
